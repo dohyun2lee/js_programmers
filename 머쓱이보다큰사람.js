@@ -6,6 +6,6 @@ function solution(array, height) {
             answer++
         }
     }
-    
+     
     return answer;
 }
